@@ -5,17 +5,17 @@ Create an account, log in, enter an image url and this app will detect any faces
 ![facerecognitionapp-pic](https://github.com/SagidAnowar/Face-Recognition-App/assets/121697604/94f35f4a-797a-478a-9e86-c26bba25c8d2)
 
 
-## Available Scripts
+## Installation Instructions
 
-In the project directory, you can run:
+ 1. Clone the repository `git clone https://github.com/SagidAnowar/Face-Recognition-App.git`  
 
-### `npm start`
+ 2. Install dependencies `npm install`  
 
-To run Back End
-Opend Back End Directory and Run PORT=3000 or whatever port number you desire to run on.
+ 3. Start the server `npm run dev`  
 
-### `PORT=3000 npm start`
+ 4. Visit http://localhost:3000 in your browser to view the application
 
+OR VISIT: https://melodious-beijinho-9da136.netlify.app
 
 ## Tech Used
 
